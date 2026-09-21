@@ -1,0 +1,15 @@
+﻿# Cloud Security Lab - Archivos Ignorados
+
+# Datasets y Feeds de Seguridad
+**/logs/*.json
+cloud_activity.json
+cloud_api_activity.json
+
+# Archivos Temporales y Logs de Ejecución
+*.log
+*.tmp
+*.txt
+
+# Configuraciones locales
+.vscode/
+.history/
